@@ -1,5 +1,7 @@
 # security-audit 速查表 | security-audit Cheatsheet | Guía rápida de security-audit
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Cloudflare 开源的 security-audit skill：把你的编程 agent 变成安全审计员——先画架构与信任边界、建覆盖台账，再派隔离的「猎手」分头找洞，每个候选漏洞都交给一个全新的验证者专门去证伪，最后才出结构化结论和中立报告。一句话钩子：让 AI 查漏洞，先让另一个 AI 专门证明它在胡说。这套 skill 正是 Cloudflare 自家漏洞发现系统的种子版。
 
 - 上游项目：[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)（2026-11-02 实测 57,111 ★ / 3,712 forks，MIT；根目录只有英文 README）
